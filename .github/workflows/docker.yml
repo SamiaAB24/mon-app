@@ -23,4 +23,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: SamiaAB24/mon-app:latest
+        tags: samia222/mon-app:latest
